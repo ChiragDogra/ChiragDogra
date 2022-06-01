@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/chiragdogra10" target="blank"><img src="https://img.shields.io/twitter/follow/chiragdogra10?logo=twitter&style=for-the-badge" alt="chiragdogra10" /></a> </p>
 
-- 🌱 I’m currently learning **Backend development and blockchains**
+- 🌱 I’m currently learning **Backend development and blockchain development**
 
 - 💬 Ask me about **React, JavaScript, Frontend development**
 
