@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **chirag.dogra79@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TJ6_TFkXSUaWi2zB5P92IcL_MBKYk0oq/view?usp=sharing](https://drive.google.com/file/d/1TJ6_TFkXSUaWi2zB5P92IcL_MBKYk0oq/view?usp=sharing)
+- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1TJ6_TFkXSUaWi2zB5P92IcL_MBKYk0oq/view?usp=sharing">My resume</a>
 
 ### Blogs posts
 
