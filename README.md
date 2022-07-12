@@ -29,7 +29,7 @@
 <a href="https://www.leetcode.com/chirag2001op" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chirag2001op" height="30" width="40" /></a>
 <a href="https://dev.to/https://dev.to/chirag_dogra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/chirag_dogra" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/chirag-dogra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="chirag-dogra" height="30" width="40" /></a>
-<a href="https://medium.com/@chirag.dogra79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chirag.dogra79" height="30" width="40" /></a>
+<a href="https://medium.com/@chiragdogra10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chirag.dogra79" height="30" width="40" /></a>
 
 </p>
 
