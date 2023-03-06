@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Backend development and blockchain development**
 
-- 💬 Ask me about **React, JavaScript, Frontend development**
+- 💬 Ask me about **Tech**
 
 - 📫 How to reach me **chirag.dogra79@gmail.com**
 
-- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/17cJx595GbRPn7Is2ylhPZ5dgNHd5MSi_/view?usp=sharing">My resume</a>
+- 📄 Know about my experiences: <a href="https://ChiragDogra.com">ChiragDogra.com</a>
 
 ### Blogs posts
 
