@@ -25,12 +25,6 @@
 
 <a href="https://twitter.com/chiragsdogra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chiragsdogra" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/chirag-singh-dogra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chirag-singh-dogra/" height="30" width="40" /></a>
-<a href="https://discord.gg/pPnmNjY3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#9053" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/chiragsdogra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chiragsdogra" height="30" width="40" /></a>
-<a href="https://dev.to/https://dev.to/chirag_dogra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/chirag_dogra" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/chirag-dogra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="chirag-dogra" height="30" width="40" /></a>
-<a href="https://medium.com/@chiragsdogra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chirag.dogra79" height="30" width="40" /></a>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
