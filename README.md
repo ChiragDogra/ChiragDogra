@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **chirag.dogra79@gmail.com**
 
-- 📄 Know about my experiences: <a href="https://ChiragDogra.com">ChiragDogra.com</a>
+- 📄 Know about my experiences: <a href="https://ChiragDogra.com" target="_blank" rel="noopener noreferrer">ChiragDogra.com</a>
 
 ### Blogs posts
 
