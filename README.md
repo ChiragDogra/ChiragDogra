@@ -77,7 +77,7 @@
 [![The ONLY Way to Get BETTER at CODING](https://ytcards.demolab.com/?id=Xj6lUopD8fA&title=The+ONLY+Way+to+Get+BETTER+at+CODING&lang=en&timestamp=1676302213&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=36 "The ONLY Way to Get BETTER at CODING")](https://www.youtube.com/watch?v=Xj6lUopD8fA)
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/UCbqm9I776RJbuYFOaUjMPXA)
 
 #
 
