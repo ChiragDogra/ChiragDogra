@@ -72,12 +72,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Linux File system explained | Linux for beginners -2](https://ytcards.demolab.com/?id=mOsz1XxiNQw&title=Linux+File+system+explained+%7C+Linux+for+beginners+-2&lang=en&timestamp=1682442189&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Linux File system explained | Linux for beginners -2")](https://www.youtube.com/watch?v=mOsz1XxiNQw)
-[![Important LINUX/TERMINAL Commands  |  Linux For Beginners Part-1](https://ytcards.demolab.com/?id=j757qAV5KHM&title=Important+LINUX%2FTERMINAL+Commands++%7C++Linux+For+Beginners+Part-1&lang=en&timestamp=1681957816&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Important LINUX/TERMINAL Commands  |  Linux For Beginners Part-1")](https://www.youtube.com/watch?v=j757qAV5KHM)
-[![Best Windows setup for Development/Programming](https://ytcards.demolab.com/?id=_NJVtJjp7MI&title=Best+Windows+setup+for+Development%2FProgramming&lang=en&timestamp=1681795807&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Best Windows setup for Development/Programming")](https://www.youtube.com/watch?v=_NJVtJjp7MI)
-[![The only OSI model tutorial that you'll ever need](https://ytcards.demolab.com/?id=EC8jvvzrtAk&title=The+only+OSI+model+tutorial+that+you%27ll+ever+need&lang=en&timestamp=1676661967&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "The only OSI model tutorial that you'll ever need")](https://www.youtube.com/watch?v=EC8jvvzrtAk)
-[![Network Topologies, LAN MAN WAN, Unicast Multicast Broadcast](https://ytcards.demolab.com/?id=fWSiF0sSkpI&title=Network+Topologies%2C+LAN+MAN+WAN%2C+Unicast+Multicast+Broadcast&lang=en&timestamp=1675621841&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Network Topologies, LAN MAN WAN, Unicast Multicast Broadcast")](https://www.youtube.com/watch?v=fWSiF0sSkpI)
-[![Types of Networking Devices & Transmission media - Complete networking Tutorials](https://ytcards.demolab.com/?id=44p8lvhdfbA&title=Types+of+Networking+Devices+%26+Transmission+media+-+Complete+networking+Tutorials&lang=en&timestamp=1675013412&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Types of Networking Devices & Transmission media - Complete networking Tutorials")](https://www.youtube.com/watch?v=44p8lvhdfbA)
+
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UCbqm9I776RJbuYFOaUjMPXA)
