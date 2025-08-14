@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chirag Dogra</h1>
-<h3 align="center">A passionate programmer.</h3>
+<!-- <h3 align="center">A passionate programmer.</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiragdogra&label=Profile%20views&color=0e75b6&style=flat" alt="chiragdogra" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/chiragsdogra" target="blank"><img src="https://img.shields.io/twitter/follow/chiragsdogra?logo=twitter&style=for-the-badge" alt="chiragsdogra" /></a> </p>
 
-- 🌱 I’m currently learning **Backend development and blockchain development**
+- 🌱 I’m currently learning **AI**
 
-- 💬 Ask me about **Tech**
+- 💬 Ask me about **Tech and Marketing**
 
 - 📫 How to reach me **chirag.dogra79@gmail.com**
 
